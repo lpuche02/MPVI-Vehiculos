@@ -1,5 +1,5 @@
 -- --------------------------------------------------------
--- Hecho por: Luis Emilio Puche
+-- Hecho por: Luis Emilio Puche --
 -- --------------------------------------------------------
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
