@@ -1,4 +1,6 @@
 # Cotizador de Repuestos Chevrolet
+![image](https://github.com/user-attachments/assets/cab96560-5d26-40fd-a29c-67dbd0ee2d5f)
+
 
 Este proyecto es un cotizador de repuestos para vehículos Chevrolet. Está diseñado para ahorrar tiempo a los técnicos mecánicos al generar automáticamente cotizaciones basadas en la disponibilidad de los repuestos.
 
