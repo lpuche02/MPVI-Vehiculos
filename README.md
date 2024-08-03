@@ -19,7 +19,6 @@ Este proyecto es un cotizador de repuestos para vehículos Chevrolet. Está dise
 ## Requisitos y Dependencias
 
 - Base de datos SQL (por ejemplo, MySQL o PostgreSQL)
-- Lenguaje de programación (Python, Java, etc.) para la lógica del cotizador
 
 ## Ejemplos de Uso
 
